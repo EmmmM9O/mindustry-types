@@ -1,7 +1,7 @@
 {
   "name": "mindustry-types",
   "description": "A simple library used to generate Declaration File from Java to other language",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "types": "lib/mindustry.d.ts",
   "repository": "https://github.com/EmmmM9O/mindustry-types",
@@ -10,6 +10,5 @@
   "keywords": [
     "mindustry"
   ],
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
